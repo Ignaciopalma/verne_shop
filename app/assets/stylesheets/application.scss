@@ -22,17 +22,20 @@
 
 
 header {
-	background-color: #f0f3f4;
-	margin: 0;
-	div {
-		div.row {
-			margin-bottom: 0;
 
-			img {
-			    width: 110px;
-			    margin-left: 61%;
-    			padding: 3em 0;			
-			}
+	div.row {
+		margin: 0;
+
+		background-color: #f0f3f4;
+		color: #2c3e50;
+
+		img {
+			width: 30%;
+			margin-left: 27%;
+		}
+
+		div.cyberday {
+			margin-top: 3%;
 		}
 	}
 }
@@ -67,6 +70,7 @@ section {
 					li {
 						div {
 							background-color: #f39c12;
+							margin-top: 1px;
 						}
 					}
 				}
@@ -90,6 +94,7 @@ section {
 					li {
 						div {
 							background-color: #f39c12;
+							margin-top: 1px;
 						}
 					}
 				}
@@ -144,8 +149,3 @@ footer {
 	}
 }
 
-.container .row {
-    margin-left: 6.25rem;
-    margin-right: 6.25rem;
-
-}
